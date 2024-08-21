@@ -34,7 +34,7 @@ My journey in information technology and support roles has led me to develop a p
 
 ### Endpoint
 <div>
-
+    <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
 ### SIEM
