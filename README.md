@@ -50,5 +50,4 @@ My journey in information technology and support roles has led me to develop a p
 </div>
 
 ## Projects
-- <a href="https://github.com/Totesmehgoat/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/Totesmehgoat/Detection-Lab">EDR Lab</a>
