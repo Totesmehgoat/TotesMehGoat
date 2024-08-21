@@ -15,12 +15,12 @@ My journey in information technology and support roles has led me to develop a p
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Totesmehgoat/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| EDR Implementation and Analysis          | <a href="https://github.com/Totesmehgoat/Detection-Lab">EDR Lab</a>|
+<!--- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| --->
 
 ## Tools
 <!--- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards] --->
