@@ -5,6 +5,9 @@
 
 IT security professional and military veteran with certifications in Security+ and AWS Certified Practitioner. Proven positive impact on teams, adept at preventing incidents and identifying threats. Experienced in working with tools such as Wireshark, Zeek, Splunk, Yara, OpenCTI, MISP, Brim, and Snort. Skilled in user verification and ready to contribute to a security analyst team,ensuring organizational security.
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TotesMehGoat.png)](https://tryhackme.com/p/TotesMehGoat)
+
+
 ## Objective
 <!--- Provide Objective - Remove this afterwards --->
 
