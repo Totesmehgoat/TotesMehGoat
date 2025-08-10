@@ -1,12 +1,9 @@
 # Hello, I'm TotesMehGoat
-<a href="https://linkedin.com/in/kyle-axley/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kyle-axley/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TotesMehGoat.png)](https://tryhackme.com/p/TotesMehGoat)
 
 <!--- [Brief Introduction - Remove this afterwards] --->
 
 IT security professional and military veteran with certifications in Security+ and AWS Certified Practitioner. Proven positive impact on teams, adept at preventing incidents and identifying threats. Experienced in working with tools such as Wireshark, Zeek, Splunk, Yara, OpenCTI, MISP, Brim, and Snort. Skilled in user verification and ready to contribute to a security analyst team,ensuring organizational security.
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TotesMehGoat.png)](https://tryhackme.com/p/TotesMehGoat)
-
 
 ## Objective
 <!--- Provide Objective - Remove this afterwards --->
