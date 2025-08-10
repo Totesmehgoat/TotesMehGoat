@@ -1,5 +1,6 @@
 # Hello, I'm TotesMehGoat
 <a href="https://linkedin.com/in/kyle-axley/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TotesMehGoat.png)](https://tryhackme.com/p/TotesMehGoat)
 
 <!--- [Brief Introduction - Remove this afterwards] --->
